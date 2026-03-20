@@ -4,8 +4,14 @@
 ## Summary
 Bans any player from your Minecraft server with "scan" in their name.  
 I realize this is completely useless because as soon as the account joins,  
-it's already gotten all of the information it wants,  
-but seeing three different scanners join my server made me angry.
+it's already gotten all of the information it wants.
+
+## Motivation
+I was looking through my server console recently and noticed three different scanners join my server.  
+My server is not meant to be private and has anti-griefing plugins;  
+I don't need you telling me how to run my server.  
+I also don't need you adding my server to your database.  
+My server is not your data point.
 
 ## Usage
 Once this plugin is installed, it does all of the work.  
