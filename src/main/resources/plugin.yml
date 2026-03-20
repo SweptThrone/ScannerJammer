@@ -1,0 +1,14 @@
+name: ScannerJammer
+main: one.sweptthr.scannerjammer.ScannerJammer
+version: 1.0
+author: SweptThrone
+api-version: "1.21"
+commands:
+  exempt:
+    description: Exempts a user from getting ScannerJammed.
+    usage: "/scannerjammer:exempt <username|uuid>"
+    permission: scannerjammer.admin
+permissions:
+  scannerjammer.admin:
+    description: Allows exempting users
+    default: op
